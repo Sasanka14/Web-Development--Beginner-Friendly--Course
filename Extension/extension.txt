@@ -1,0 +1,12 @@
+In this File I write the extension i used through out this course.
+
+what are the extensions ?
+---> VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow.
+      You can say it as a chart code.
+
+---------------------------------------NAMES----------------------------
+1. Vs Code Icons (Icon Pack) You can add any icon icon pack. 
+2. GitHub theme set dark default. you can add any theme you want. 
+3. Prettier - Code formatter. It is used to formate or organize a code. 
+4. Live preview. It is used to see how our website looks like. 
+

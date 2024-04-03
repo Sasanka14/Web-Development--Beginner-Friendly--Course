@@ -1,0 +1,12 @@
+In this lecture first We learn connect .html with .css and .js file type. As a result we first crete three files 
+names : index.html, style.css and script.js.(You can any name) 
+
+Now, 
+    With the help of extension create a boilerplate(Boilerplate code is computer language text that you can reuse with little or no 
+                                                    alteration in several different contexts.) for .html and  with the help of extension preview
+    the code in browser and see how it looks like.
+
+Then we do some styling in .css file. after styling we go to .html file and write " <link rel="stylesheet" href="style.css"> " this line of code
+which connect .html with .css file. and we see changes in browser with the help of preview extension.
+
+In similar way we connect the .js file with .html file using "<script src="script.js"></script>" this line of code. 
