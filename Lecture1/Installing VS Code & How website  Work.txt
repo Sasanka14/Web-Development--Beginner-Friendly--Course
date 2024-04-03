@@ -1,0 +1,52 @@
+First we have to download VS Code editor from any browser.
+👇👇👇👇👇👇👇👇
+
+Step 1: Go to official website of Visual code studio(VS Code) at "http://code.visualstudio.com".
+Step 2: On the homepage, you'll see a prominent download button. Click on it to download the installer for windows.
+Step 3: Once the installer file is downloaded, double click on its to start the installation process.
+Step 4: Accept the license agreement and click "Next" .
+Step 5: Choose the installation location or by default it took a location by itself.But after that check all the additional  task for better  experience.
+Step 6: Then click on "Instal button" after installing launch the VS Code.
+
+
+After download and setting up the VS Code.
+Create a file with the name of "index.html". 
+The term html means " Hypertext Markup Language" 
+Used for :
+----->>>   HTML is used for creating and structuring web pages on the internet. It provides a standardized way to format and present content, such as text, images, links, and 
+multimedia elements, within a web browser. HTML allows web developers to define the layout, style, and functionality of a web page, making it an essential tool for building websites
+and web applications. Additionally, HTML works in conjunction with other technologies like CSS (Cascading Style Sheets) and JavaScript to enhance the presentation and interactivity
+of web pages.
+
+How Website Works ?
+---->>  By the help of three components,
+        Server
+        Client
+        Browser
+
+what does this means , it's simply refer Webpages work by:
+1. **Request**: Your browser asks for a webpage.
+2. **Response**: The server sends the webpage back.
+3. **Rendering**: Your browser displays the webpage.
+4. **Interaction**: You can click links and submit forms.
+5. **Communication**: Your browser sends data to the server.
+6. **Processing**: The server handles your data.
+7. **Feedback**: The server sends a response.
+8. **Updates**: Your browser shows any changes.
+
+You can refer "Website Work.png" photo
+
+HTML is a skeleton of a web page.
+
+CSS (Cascading Style Sheets) is like the skin and makeup of a webpage. It's used to style the HTML content, defining how elements should look,
+such as colors, fonts, layouts, and animations.
+
+JavaScript is like the muscles and brain of a webpage. It adds interactivity and functionality, allowing you to dynamically change content,
+respond to user actions, validate forms, create animations, and much more.
+
+In this lecture we work on html only, day by day we level up. 
+
+Quick Html Example:
+1. photo.html.(At first we create a  file called "index.html" change into "photo.html")
+2. video.html.
+3. text.html.
