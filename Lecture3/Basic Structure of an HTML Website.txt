@@ -32,7 +32,7 @@ Certainly! Here's a breakdown of the basic structure of HTML and explanations of
 
    Example:
 
-   <p>This is an opening tag</p>
+   <p>This is an opening tag and </p>this is a Closing tag
   
 
 3. **Types of Tags:**
