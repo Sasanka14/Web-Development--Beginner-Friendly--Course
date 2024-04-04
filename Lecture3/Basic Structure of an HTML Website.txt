@@ -1,0 +1,88 @@
+In this lecture we learn basic and various aspect of html. 
+
+Certainly! Here's a breakdown of the basic structure of HTML and explanations of common HTML elements:
+
+1. **Basic Structure of HTML:**
+   
+   HTML documents consist of elements that define the structure and content of a webpage. The basic structure of an HTML document includes:
+   
+    <!-- Defines the document type as HTML5 -->
+    <!DOCTYPE html>
+    <!-- Begins the HTML document -->
+    <html lang="en">
+    <head>
+        <!-- Sets the character encoding to UTF-8 -->
+        <meta charset="UTF-8">
+        <!-- Configures viewport settings for responsive design -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Sets the title of the webpage -->
+        <title>Title of the Webpage</title>
+    </head>
+    <body>
+        <!-- Content of the Webpage Goes Here -->
+    </body>
+    </html>
+
+
+2. **Opening and Closing Tags:**
+
+   - Opening Tag: An opening tag is used to mark the beginning of an HTML element and is enclosed in angle brackets (`< >`). It contains the name of the element.
+   
+   - Closing Tag: A closing tag marks the end of an HTML element and is also enclosed in angle brackets (`< >`). It contains a forward slash (`/`) followed by the name of the element.
+
+   Example:
+
+   <p>This is an opening tag</p>
+  
+
+3. **Types of Tags:**
+
+   - **Pair Tags**: Pair tags consist of both opening and closing tags, enclosing content between them. Examples include `<p>`, `<div>`, `<span>`, etc.
+   
+   - **Self-Closing Tags**: Self-closing tags do not have a closing tag and are used to insert elements that do not contain content or require additional attributes. Examples include `<img>`, `<br>`, `<input>`, etc.
+
+4. **Meta Tag:**
+
+   The `<meta>` tag is used to provide metadata about the HTML document. Metadata includes information such as character encoding, viewport settings, authorship, keywords, and descriptions. The `<meta>` tag is self-closing and is commonly placed within the `<head>` section of an HTML document.
+
+   Example:
+
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+These are the fundamental components and concepts of HTML that form the building blocks of web development. Understanding these basics will provide a solid foundation for creating and structuring web pages effectively.
+
+Here are the steps to preview a webpage in mobile using VS Code:
+
+1. **Open Terminal and Find IPv4 Address:**
+   - Open the terminal.
+   - Type "ipconfig" and press Enter.
+   - Locate and copy the "IPv4 Address" listed under your active network connection.
+
+2. **Configure Live Preview in VS Code:**
+   - Open VS Code.
+   - Go to Settings by pressing `Ctrl + ,`.
+   - Select the Workspace tab.
+   - Search for "Live Preview" settings.
+   - Find the setting related to Live Preview extension. You can refer the "image.png" also. 
+   - Paste the copied IPv4 Address into the appropriate setting.
+   - Save the settings.
+
+3. **Restart VS Code:**
+   - Close VS Code.
+   - Reopen VS Code to apply the changes.
+
+4. **Configure computer network:**
+   - On your computer, go to Wi-Fi settings.
+   - Connect to the same network as your computer.
+   - Choose the "Private Network" option if prompted.
+
+5. **Preview Webpage:**
+   - Open the HTML file you want to preview in VS Code.
+   - You will find a extension on up-right of the vs code. click it. 
+   - This will open a live preview of the webpage.
+   - Now copy the link of the webpage and open in mobile device. 
+   - You should now see the webpage previewed on your mobile device.
+
+These steps allow you to easily preview your webpage in a mobile view, enabling you to test responsiveness and design on different devices.
