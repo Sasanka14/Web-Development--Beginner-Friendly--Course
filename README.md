@@ -41,6 +41,5 @@
 
 <!-- YouTube Playlist Link -->
 <p align="center">
-  Explore our YouTube playlist for more tutorials:
   <a href="https://www.youtube.com/your_playlist" target="_blank"><img src="https://cdn.pixabay.com/photo/2015/04/13/17/45/icon-720950_1280.png" alt="YouTube Playlist" width="200"></a>
 </p>
