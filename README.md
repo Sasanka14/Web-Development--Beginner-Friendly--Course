@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://stock.adobe.com/images/web-development-coding-programming-internet-technology-business-concept/214879686" alt="Web Development Course Banner">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522web%2Bdevelopment%2522&psig=AOvVaw1FaWvXbLRde6xXz4wcL6oN&ust=1712378118449000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjWnv-fqoUDFQAAAAAdAAAAABAE" alt="Web Development Course Banner">
 </p>
 
 <!-- Introduction -->
