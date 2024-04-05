@@ -41,5 +41,6 @@
 
 <!-- YouTube Playlist Link -->
 <p align="center">
-  <a href="https://www.youtube.com/your_playlist" target="_blank"><img src="[https://example.com/youtube_button.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AYouTube_Logo_2017.svg&psig=AOvVaw04PRPyZg27IcqUxfLVfG1T&ust=1712379020450000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD_yYyjqoUDFQAAAAAdAAAAABAE)" alt="YouTube Playlist" width="200"></a>
+  Explore our YouTube playlist for more tutorials:
+  <a href="https://www.youtube.com/your_playlist" target="_blank"><img src="https://cdn.pixabay.com/photo/2015/04/13/17/45/icon-720950_1280.png" alt="YouTube Playlist" width="200"></a>
 </p>
