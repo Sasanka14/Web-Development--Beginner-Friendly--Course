@@ -1,4 +1,4 @@
-In this video we learn about Images, Lists and Tables.
+In this lecture we learn about Images, Lists and Tables.
 
 
 As we know that we can upload Images in first lecture but at that time we don't explain.
