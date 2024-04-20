@@ -1,2 +1,7 @@
-1. Quick Quiz:
-    Without using br tag, write a vertically aligned form asking for name, city and pincode of a user.
+Quick Quiz:
+
+Q1. Without using br tag, write a vertically aligned form asking for name, city and 
+pincode of a user.
+
+Q2. Create a website which shows videos of different category and audios of different categories.
+    You can use YouTube videos in an iframe using YouTube's embedding feature
