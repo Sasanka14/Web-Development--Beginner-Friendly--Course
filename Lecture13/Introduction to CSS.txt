@@ -1,0 +1,49 @@
+This is the First Lecture of the CSS. 
+
+So Let's begin,
+
+   Q1. what is CSS ?
+-----> CSS stands for Cascading Style Sheets. It is a style sheet language used for describing the presentation
+       of a document written in markup languages like HTML. CSS defines how HTML elements are to be displayed 
+       on a screen, paper, or other media. It enables web designers to control the layout, colors, fonts, and 
+       other visual aspects of web pages, ensuring consistency and enhancing the overall aesthetic appeal. 
+       CSS works by selecting HTML elements and applying styling rules to them, allowing for both simple and 
+       complex design implementations.
+
+   Q2. Types of CSS ?
+------> There are three main types of CSS:
+
+1. **Inline CSS:** This type of CSS is applied directly within the HTML element using the
+                   "style" attribute. It has the highest specificity, meaning it overrides 
+                   any external or internal CSS styles. However, it's generally not 
+                   recommended for large-scale styling due to its lack of maintainability.
+
+2. **Internal CSS:** Internal CSS is defined within the HTML document using the `<style>` 
+                     tag in the `<head>` section. It applies styles to the entire document
+                    or specific sections. While it offers better maintainability than 
+                    inline CSS, it still mixes content with presentation, which can make 
+                    the code harder to manage in larger projects.
+
+3. **External CSS:** External CSS is stored in separate .css files and linked to the HTML 
+                     document using the `<link>` tag in the `<head>` section. This 
+                     approach keeps the HTML and CSS separate, making the code cleaner, 
+                     more organized, and easier to maintain. External CSS files can be 
+                     reused across multiple web pages, promoting consistency in design 
+                     and layout.
+
+   Q3. What is selector ?
+-----> A selector in CSS is a pattern or expression used to select one or more elements 
+       in an HTML document that you want to style. Selectors target HTML elements based 
+       on their element type, attributes, IDs, classes, or their relationship with other 
+       elements. Once selected, you can apply styles to these elements to change their 
+       appearance, layout, or behavior on the web page. Selectors form a fundamental part 
+       of CSS and are essential for targeting specific elements to apply styling rules.
+
+   Q4. What is property ?
+-----> In CSS, a property is a characteristic or attribute of an HTML element that you 
+       can style or manipulate using CSS rules. Properties define various aspects of an 
+       element's appearance, such as its color, size, font, spacing, alignment, and more. 
+       For example, the "color" property sets the text color, the "font-size" property 
+       controls the size of the text, and the "background-color" property defines the 
+       background color of an element. Each property has a corresponding value that 
+       specifies the desired style or behavior for the element.
