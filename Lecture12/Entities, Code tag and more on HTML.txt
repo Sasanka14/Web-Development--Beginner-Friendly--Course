@@ -5,7 +5,7 @@ So Let's begin,
                                    HTML Entities
 HTML entities are a crucial part of HTML markup language. They enable you to display 
 characters that are reserved in HTML or that aren't readily available on the keyboard. 
-In this blog, we'll explore what HTML entities are, their types, and how to use them.
+In this lecture, we'll explore what HTML entities are, their types, and how to use them.
 
    Q1. What Are HTML Entities?
 ----> HTML entities are used to represent special characters in a format that the browser can 
