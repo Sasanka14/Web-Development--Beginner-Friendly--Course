@@ -10,3 +10,4 @@ Q3. You are given 12 files; 6 audio and 6 video.
     Design a website using HTML only which shows these 12 files.
        File name for audio files should be like this (1.mp3, 2.mp3 .... 6.mp3)
        File name for video files should be like this (1.mp4, 2.mp4 .... 6.mp4)
+
