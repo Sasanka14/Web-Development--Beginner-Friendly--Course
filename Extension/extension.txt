@@ -9,4 +9,3 @@ what are the extensions ?
 2. GitHub theme set dark default. you can add any theme you want. 
 3. Prettier - Code formatter. It is used to formate or organize a code. 
 4. Live preview. It is used to see how our website looks like. 
-
