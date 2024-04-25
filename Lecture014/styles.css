@@ -1,0 +1,78 @@
+/* Basic Element Selectors */
+header {
+    background-color: #e1acac;
+    color: white;
+    padding: 20px;
+    text-align: center; /* Center align the text */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Center align the list items */
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px; /* Add rounded corners */
+}
+
+section h2 {
+    color: #333;
+    text-align: center; /* Center align the heading */
+}
+
+aside {
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 8px; /* Add rounded corners */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Class Selectors */
+.about-info {
+    font-style: italic;
+}
+
+/* ID Selectors */
+#recent-posts {
+    font-weight: bold;
+}
+
+/* Attribute Selectors */
+img[alt="About Us Image"] {
+    width: 25%; /* Adjust width to fill container */
+    height: auto; /* Set height to auto to maintain aspect ratio */
+    display: block;
+    margin-top: 20px;
+    border-radius: 8px; /* Add rounded corners */
+}
+
+/* Pseudo-classes */
+nav a:hover {
+    color: yellow;
+}
+
+/* Pseudo-elements */
+footer::before {
+    content: "Website created by ";
+}
+
+footer::after {
+    content: "Design Co.";
+    font-weight: bold;
+}
