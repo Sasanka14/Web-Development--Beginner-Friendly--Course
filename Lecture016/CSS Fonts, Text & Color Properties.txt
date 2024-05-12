@@ -1,0 +1,67 @@
+In this lecture we learn about CSS Fonts, Text & Color Properties
+
+Certainly! Here's a structured overview of CSS Fonts, Text, and Color properties, including notes on fallback fonts and external fonts:
+
+### CSS Fonts, Text, and Color Properties
+
+#### 1. Font Properties:
+   - Font properties in CSS are used to control the appearance of text on webpages.
+   - **font-family**: Specifies the font family for text content.
+   - **font-size**: Sets the size of the font.
+   - **font-weight**: Specifies the boldness of the font.
+   - **font-style**: Specifies the style of the font (italic, oblique, etc.).
+   - **font-variant**: Controls the usage of small-caps for the font.
+   - **font-stretch**: Specifies the width of the font.
+   - **font**: Shorthand property for setting all font properties in one declaration.
+
+#### 2. Text Properties:
+   - Text properties in CSS are used to style and format the text content of HTML elements. These properties allow developers to 
+     control aspects such as text color, alignment, decoration, spacing, and more.
+   - **color**: Sets the color of text content.
+   - **text-align**: Aligns text content horizontally within its container.
+   - **text-decoration**: Adds decoration to text content (underline, overline, etc.).
+   - **text-transform**: Controls the capitalization of text (uppercase, lowercase, etc.).
+   - **text-shadow**: Adds shadow effects to text content.
+   - **line-height**: Sets the height of lines within text content.
+   - **letter-spacing**: Adjusts the spacing between characters.
+   - **word-spacing**: Adjusts the spacing between words.
+   - **white-space**: Specifies how white space within text content is handled.
+
+#### 3. Color Properties:
+   - Color properties in CSS are used to define and manipulate the color of elements on a webpage. They allow developers to specify the 
+     color of text, backgrounds, borders, and other visual elements. 
+
+   - **color**: Sets the foreground color of an element's text content.
+   - **background-color**: Sets the background color of an element.
+   - **opacity**: Specifies the transparency of an element's content.
+   - **hsl()**: Function for specifying a color using the HSL color model.
+   - **currentColor**: Represents the value of the `color` property of an element.
+
+   Colors in CSS can be represented in various ways:
+
+1. **Color Name**: Predefined color names like "red," "blue," or "green."
+
+2. **Hex Code**: Hexadecimal codes ranging from #000000 (black) to #FFFFFF (white), representing RGB values.
+
+3. **RGB Values**: Specify colors using RGB components, like rgb(255, 0, 0) for red.
+
+4. **RGBA Values**: Include an alpha channel for transparency, like rgba(255, 0, 0, 0.5) for semi-transparent red.
+
+#### Fallback Fonts:
+   - Fallback fonts are specified in case a specified font is not available or cannot be loaded.
+   - They are listed in a comma-separated list after the desired font in the `font-family` property.
+   - Example: `font-family: "Arial", sans-serif;`
+   - It's essential to include generic font families like `sans-serif` or `serif` as fallbacks for broader compatibility.
+
+#### External Fonts:
+   - External fonts are hosted on external servers or services, allowing web developers to use a wide variety of typefaces.
+   - Common sources include Google Fonts, Adobe Fonts, and Font Squirrel.
+   - They are included in HTML documents using `<link>` tags or `@import` rules in CSS.
+   - External fonts enhance typography and design options for websites.
+
+
+By understanding and applying these CSS properties effectively, web developers can control the appearance and styling of text content,
+ including font choices, text layout, and color schemes, ensuring a visually appealing and readable user experience.
+
+
+  You can take a reference of "color.html" and "index.html".
