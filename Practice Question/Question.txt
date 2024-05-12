@@ -11,3 +11,23 @@ Q3. You are given 12 files; 6 audio and 6 video.
        File name for audio files should be like this (1.mp3, 2.mp3 .... 6.mp3)
        File name for video files should be like this (1.mp4, 2.mp4 .... 6.mp4)
 
+Q4. 
+How can you style a paragraph inside a div containing five other paragraphs using HTML and CSS? The first paragraph should have a 
+background color of yellow and text color of red, while the remaining paragraphs should have a background color of blue and text color 
+of white.
+
+Given Code:
+   <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci temporibus, quis nesciunt officiis, quidem repellendus molestiae, expedita sapiente ducimus rerum voluptates assumenda ad. Iste exercitationem odit dolore totam tenetur illo nihil! Expedita, commodi. Repellendus ipsa a nobis officia, est, atque praesentium culpa voluptate ducimus consequuntur cupiditate autem quaerat! Ad, minus fugiat consequatur aut repudiandae possimus eveniet eum consequuntur atque asperiores, molestias neque similique, repellendus mollitia ullam vel illum accusantium est optio eaque saepe numquam! Minima delectus eaque unde. Ad harum aliquid blanditiis voluptates architecto perspiciatis. Aut illo laboriosam rem error accusantium, neque, recusandae autem deleniti provident veniam magni! Perferendis, impedit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quos dicta blanditiis. Dolores at praesentium, labore alias eum enim ut nisi quis. Deserunt, incidunt ad. Provident, reprehenderit. Eius, odio earum? Error, fugit porro. Possimus accusantium natus sit porro ab expedita recusandae, facilis dolores animi nostrum non soluta ad ratione eum?</p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit, incidunt est?Beatae sunt animi eum voluptatem dignissimos perspiciatis. Est expedita deserunt harum, soluta maxime corporis!/p>
+    </div>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad voluptates praesentium aut esse ratione incidunt similique quaerat necessitatibus fuga, modi sapiente enim facilis dolorem sunt perspiciatis nesciunt odit alias laudantium velit. Eos dolorum possimus harum ullam, repellat ea sapiente amet ratione! Praesentium provident accusantium iusto obcaecati dignissimos fuga hic itaque quam quos asperiores maxime quibusdam, doloremque ratione! Magni debitis numquam repudiandae illum ut assumenda sint, delectus atque laudantium esse, nulla nostrum sapiente rem, nam cupiditate consectetur neque commodi autem voluptas.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis ipsa nemo neque itaque rerum odit quis dicta, non eaque illo odio ratione asperiores laborum. Nobis et dicta consequatur sunt perferendis doloribus voluptatum odit perspiciatis consectetur iusto. Sequi voluptas nesciunt temporibus.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga cumque impedit provident. Expedita possimus debitis sint asperiores nisi neque dolorem?</p>
+    </div>
+
+
+
+
