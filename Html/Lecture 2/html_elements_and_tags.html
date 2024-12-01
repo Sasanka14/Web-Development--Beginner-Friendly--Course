@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Site Sasanka</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpg" href="images/Demon Slayer.jpg" />
+    <!-- External Fonts from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Internal Styling -->
+    <style>
+      /* General Body Styling */
+      body {
+        background-color: #121212; /* Dark theme background */
+        color: #f0f0f0; /* Light text for contrast */
+        font-family: "Poppins", sans-serif;
+        margin: 20px;
+      }
+
+      /* Heading Styles */
+      h1, h2, h3, h4, h5, h6 {
+        color: #ff9800; /* Vibrant orange color */
+      }
+
+      /* Paragraphs */
+      p {
+        line-height: 1.6;
+        font-weight: 400;
+      }
+
+      /* Ordered and Unordered Lists */
+      ol, ul {
+        margin-left: 20px;
+      }
+      ol {
+        color: #03a9f4; /* Blue color for ordered lists */
+      }
+      ul {
+        color: #8bc34a; /* Green color for unordered lists */
+      }
+
+      /* Description List Styling */
+      dl {
+        margin-top: 20px;
+      }
+      dt {
+        font-weight: 600;
+        color: #ff5722; /* Reddish color for terms */
+      }
+      dd {
+        margin-left: 20px;
+        padding: 10px;
+        border-left: 4px solid #2196f3; /* Blue border */
+        background-color: #1e1e1e; /* Subtle darker background */
+        color: #e0e0e0; /* Light text */
+      }
+
+      /* Code Tag Styling */
+      code {
+        font-family: "Fira Code", monospace; /* Stylish monospace font */
+        background-color: #282c34; /* Dark, subtle background */
+        color: #61dafb; /* Soft cyan text for visibility */
+        padding: 4px 6px; /* Adequate padding for readability */
+        border-radius: 6px; /* Rounded corners */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
+        font-size: 1rem; /* Slightly larger font size for clarity */
+        line-height: 1.5; /* Comfortable line spacing */
+        white-space: pre-wrap; /* Preserve whitespace and wrap long lines */
+        display: inline-block; /* Better alignment for inline elements */
+      }
+      
+      pre code {
+        display: block; /* For block-level code snippets */
+        padding: 12px; /* More padding for preformatted code */
+        overflow-x: auto; /* Horizontal scrolling for long lines */
+      }      
+      abbr {
+        text-decoration: dotted underline;
+        cursor: help;
+        color: #03a9f4; /* Blue color for abbreviations */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Plain Text -->
+    <h1>Welcome to My First Website</h1>
+    <p>Hello World! My name is Sasanka, and this is my first website.</p>
+
+    <!-- Headings -->
+    <h2>Different Heading Levels</h2>
+    <h1>Heading1</h1>
+    <h2>Heading2</h2>
+    <h3>Heading3</h3>
+    <h4>Heading4</h4>
+    <h5>Heading5</h5>
+    <h6>Heading6</h6>
+
+    <!-- Paragraphs -->
+    <h2>About HTML</h2>
+    <p>HTML stands for HyperText Markup Language. It is the standard language for creating web pages and applications.</p>
+    <p>It structures content on the web using elements like headings, paragraphs, links, images, and more.</p>
+    <p>Learning HTML is the first step toward web development and creating interactive, user-friendly websites.</p>
+
+    <!-- Lists -->
+    <h2>Types of Lists</h2>
+    <!-- Ordered List -->
+    <h3>Ordered List</h3>
+    <ol type="A" start="6">
+      <li>Step 1: Open the browser.</li>
+      <li>Step 2: Search for "HTML lists".</li>
+      <li>Step 3: Learn and practice.</li>
+    </ol>
+
+    <!-- Unordered List -->
+    <h3>Unordered List</h3>
+    <ul type="square">
+      <li>Milk</li>
+      <li>Eggs</li>
+      <li>Bread</li>
+    </ul>
+
+    <!-- Nested List -->
+    <h3>Nested List</h3>
+    <ol>
+      <li>Fruits
+        <ul>
+          <li>Apple</li>
+          <li>Banana</li>
+        </ul>
+      </li>
+      <li>Vegetables
+        <ul>
+          <li>Carrot</li>
+          <li>Spinach</li>
+        </ul>
+      </li>
+    </ol>
+
+    <!-- Description List -->
+    <h3>Description List</h3>
+    <dl>
+      <dt>HTML</dt>
+      <dd><abbr title="HyperText Markup Language">HTML</abbr> stands for <code>HyperText Markup Language</code>. It is used to create webpages.</dd>
+      <dt>CSS</dt>
+      <dd>CSS stands for <code>Cascading Style Sheets</code>. It is used to style webpages.</dd>
+      <dt>JavaScript</dt>
+      <dd>JavaScript is a programming language used to create <code>interactive</code> and dynamic web content.</dd>
+    </dl>
+
+    <!-- Example of Entity Usage -->
+    <h2>Entities in HTML</h2>
+    <p>
+      Entities are special characters or symbols that cannot be typed directly in HTML.
+      For example:
+    </p>
+    <p>
+      &lt; represents the "<" symbol.<br />
+      &gt; represents the ">" symbol.<br />
+      &amp; represents the "&" symbol.
+    </p>
+    <p>
+      To include these symbols in your code, you use their respective entities.
+      <h2>HTML Template Example</h2>
+      <p>
+        Below is a basic HTML template displayed using the <code>&lt;code&gt;</code> tag:
+      </p>
+      <p>
+        Here is the example HTML template:
+      </p>
+      <pre>
+      <code>
+      &lt;!DOCTYPE html&gt;
+      &lt;html lang="en"&gt;
+        &lt;head&gt;
+          &lt;meta charset="UTF-8"&gt;
+          &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+          &lt;title&gt;Example HTML Template&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+          &lt;h1&gt;Hello, World!&lt;/h1&gt;
+          &lt;p&gt;This is a sample HTML template.&lt;/p&gt;
+        &lt;/body&gt;
+      &lt;/html&gt;
+      </code>
+      </pre>
+      
+    </p>
+  </body>
+</html>
